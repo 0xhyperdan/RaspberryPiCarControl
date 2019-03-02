@@ -1,0 +1,10 @@
+<resources>
+   <string name="app_name">树莓派小车</string>
+   <string name="forward">forward</string>
+   <string name="back">back</string>
+   <string name="left">left</string>
+   <string name="right">right</string>
+   <string name="stop">stop</string>
+   <string name="camera_image">图像传输预留</string>
+   <string name="fmt_distance">障碍物距离：%d cm</string>
+</resources>
